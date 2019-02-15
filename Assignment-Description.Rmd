@@ -1,0 +1,33 @@
+---
+title: "Assignment"
+author: "Dr. Ali Sajid Imami"
+date: "February 15, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Assignment
+
+Use the `infert` dataset to find a significant risk factor for infertility. Then create a small report about your findings.
+
+## Information
+
+The `infert` dataset is part of the standard datasets package in R. It contains a matched case-control study. 
+
+### Structure
+
+The report must contain the following:
+
+1. An abstract at the top.
+2. A small introduction.
+3. An exploratory data analysis.
+4. Graphics where necessary.
+5. A description of your analysis approach.
+6. A conclusion section.
+
+### Submission guidelines
+
+You must submit the link to a git repository shared on github.
